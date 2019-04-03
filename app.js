@@ -47,8 +47,8 @@ var DB = require('mongodb').Db,
     async = require('async') ;
 
 
-var db_host = "ds131139.mlab.com:31139" ;
-var db_port = "27017" ;
+var db_host = "ds131139.mlab.com" ;
+var db_port = "31139" ;
 var db_user = "cmpe281" ;
 var db_pwd  = "cmpe281" ;
 var db_name = "test1" ;
